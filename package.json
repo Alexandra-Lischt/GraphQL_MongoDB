@@ -1,9 +1,6 @@
 {
   "dependencies": {
     "graphql-yoga": "^1.18.3",
-    "mongoose": "^5.7.12",
-    "next": "^9.1.4",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "mongoose": "^5.7.12"
   }
 }
